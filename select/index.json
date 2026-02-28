@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Guilty as Sin?",
+  "base_artist": "Taylor Swift",
+  "createdAt": "2026-02-28T22:58:46.361242Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Guilty As Sin",
+      "artist": "DevilDriver",
+      "has_synced": true,
+      "path": "select/01_Guilty_As_Sin_DevilDriver.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Guilty as Sin",
+      "artist": "Stiff Little Fingers",
+      "has_synced": true,
+      "path": "select/02_Guilty_as_Sin_Stiff_Little_Fingers.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Guilty as Sin",
+      "artist": "Jupiter",
+      "has_synced": true,
+      "path": "select/03_Guilty_as_Sin_Jupiter.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Guilty As Sin",
+      "artist": "Kasey Chambers",
+      "has_synced": true,
+      "path": "select/04_Guilty_As_Sin_Kasey_Chambers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Guilty as Sin",
+      "artist": "Sickick feat. Dan Taleveski",
+      "has_synced": false,
+      "path": "select/05_Guilty_as_Sin_Sickick_feat._Dan_Taleveski.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Guilty as Sin",
+      "artist": "Sickick, Dan Taleveski",
+      "has_synced": false,
+      "path": "select/06_Guilty_as_Sin_Sickick,_Dan_Taleveski.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Guilty as Sin?",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/07_Guilty_as_Sin_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Guilty as Sin",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/08_Guilty_as_Sin_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Guilty as Sin?",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/09_Guilty_as_Sin_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Guilty as Sin?",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/10_Guilty_as_Sin_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Taylor Swift - Guilty as Sin (Official Lyric Video)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/11_Taylor_Swift_-_Guilty_as_Sin_(Official_Lyric_Video)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Guilty as Sin?",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/12_Guilty_as_Sin_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Guilty as Sin?",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/13_Guilty_as_Sin_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Guilty as Sin?",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/14_Guilty_as_Sin_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Guilty as Sin?",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/15_Guilty_as_Sin_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Guilty as Sin?",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/16_Guilty_as_Sin_Taylor_Swift.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Guilty as Sin?",
+      "artist": "テイラー・スウィフト",
+      "has_synced": false,
+      "path": "select/pl_01_Guilty_as_Sin_テイラー・スウィフト.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Guilty as Sin?",
+      "artist": "テイラー・スウィフト",
+      "has_synced": false,
+      "path": "select/pl_02_Guilty_as_Sin_テイラー・スウィフト.txt"
+    }
+  ]
+}
