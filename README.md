@@ -1,60 +1,64 @@
-# Taylor Swift – loml
+# Taylor Swift – Guilty as Sin?
 
 > **歌詞登録ステータス：同期歌詞あり**
 
 ```lrc
-[00:20.33] Who's gonna stop us from waltzing back into rekindled flames
-[00:26.75] If we know the steps anyway
-[00:30.39] We embroidered the memories of the time I was away
-[00:36.52] Stitching "We were just kids babe"
-[00:40.25] I said "I don't mind it takes time"
-[00:45.70] I thought I was better safe than starry-eyed
-[00:50.26] I felt aglow like this
-[00:55.44] Never before and never since
-[00:59.40] If you know it in one glimpse it's legendary
-[01:04.32] You and I go from one kiss to getting married
-[01:09.23] Still alive killing time at the cemetery
-[01:14.47] Never quite buried
-[01:17.06] In your suit and tie in the nick of time
-[01:22.13] You lowdown boy you standup guy you
-[01:27.33] Holy Ghost you told me I'm
-[01:31.92] The love of your life
-[01:36.20] You said I'm the love of your life
-[01:44.14] About a million times
-[01:48.45] Who's gonna tell me the truth
-[01:50.93] When you blew in with the winds of fate
-[01:55.20] And told me I reformed you
-[01:58.24] When your Impressionist paintings of Heaven turned out to be fakes
-[02:05.03] Well you took me to hell too
-[02:08.65] And all at once the ink bleeds
-[02:13.59] A conman sells a fool a get-love-quick scheme
-[02:18.33] But I felt a hole like this
-[02:23.55] Never before and ever since
-[02:27.55] If you know it in one glimpse it's legendary
-[02:32.45] What we thought was for all time was momentary
-[02:37.33] Still alive killing time at the cemetery
-[02:42.56] Never quite buried
-[02:45.29] You cinephile in black and white
-[02:50.54] All those plot twists and dynamite
-[02:54.83] Mr. Steal Your Girl then make her cry
-[02:59.22] You said I'm the love of your life
-[03:06.84] You ****-talked me under the table
-[03:09.49] Talking rings and talking cradles
-[03:11.95] I wish I could un-recall how we almost had it all
-[03:16.93] Dancing phantoms on the terrace
-[03:19.29] Are they second-hand embarrassed
-[03:21.73] That I can't get out of bed 'cause something counterfeit's dead
-[03:29.21] It was legendary
-[03:34.06] It was momentary
-[03:38.69] It was unnecessary should've let it stay buried
-[03:43.43] Oh what a valiant roar
-[03:46.57] What a bland goodbye
-[03:49.02] The coward claimed he was a lion
-[03:53.94] I'm combing through the braids of lies
-[03:58.78] "I'll never leave"
-[04:01.46] "Never mind"
-[04:03.67] Our field of dreams engulfed in fire
-[04:08.59] Your arson's match your somber eyes
-[04:13.49] And I'll still see it until I die
-[04:18.34] You're the loss of my life
+[00:05.02] Drowning in the Blue Nile
+[00:07.98] He sent me "Downtown Lights"
+[00:12.97] I hadn't heard it in a while
+[00:15.54] My boredom's bone-deep
+[00:17.96] This cage was once just fine
+[00:23.06] Am I allowed to cry?
+[00:33.06] 
+[00:25.35] I dream of cracking locks
+[00:28.11] Throwing my life to the wolves or the ocean rocks
+[00:33.56] Crashing into him tonight, he's a paradox
+[00:38.32] I'm seeing visions, am I bad?
+[00:41.27] Or mad? Or wise?
+[00:49.27] 
+[00:44.63] What if he's written "mine" on my upper thigh only in my mind?
+[00:54.18] One slip and falling back into the hedge maze
+[00:58.52] Oh, what a way to die
+[01:04.14] I keep recalling things we never did
+[01:08.83] Messy top lip kiss
+[01:11.51] How I long for our trysts
+[01:14.46] Without ever touching his skin
+[01:17.57] How can I be guilty as sin?
+[01:31.07] 
+[01:23.65] I keep these longings locked
+[01:28.71] In lowercase, inside a vault
+[01:31.67] Someone told me, "There's no such thing as bad thoughts
+[01:38.83] Only your actions talk"
+[01:50.33] 
+[01:41.49] These fatal fantasies giving way to labored breath
+[01:46.74] Taking all of me, we've already done it in my head
+[01:51.93] If it's make-believe
+[01:54.37] Why does it feel like a vow we'll both uphold somehow?
+[02:21.37] 
+[02:00.39] What if he's written "mine" on my upper thigh only in my mind?
+[02:09.71] One slip and falling back into the hedge maze
+[02:14.11] Oh, what a way to die
+[02:20.03] My bedsheets are ablaze, I've screamed his name
+[02:24.63] Building up like waves crashing over my grave
+[02:30.41] Without ever touching his skin
+[02:33.59] How can I be guilty as sin?
+[02:47.09] 
+[02:38.67] What if I roll the stone away?
+[02:43.36] They're gonna crucify me anyway
+[02:47.74] What if the way you hold me is actually what's holy?
+[02:54.82] If long-suffering propriety is what they want from me
+[03:01.18] They don't know how you've haunted me so stunningly
+[03:05.91] I choose you and me religiously
+[03:21.41] 
+[03:13.52] What if he's written "mine" on my upper thigh only in my mind?
+[03:23.04] One slip and falling back into the hedge maze
+[03:27.64] Oh, what a way to die
+[03:33.21] I keep recalling things we never did
+[03:37.96] Messy top lip kiss, how I long for our trysts
+[03:43.79] Without ever touching his skin
+[03:46.93] How can I be guilty as sin?
+[04:00.43] 
+[03:52.77] He sent me "Downtown Lights"
+[03:57.96] I hadn't heard it in a while
+[04:08.09] Am I allowed to cry?
 ```
